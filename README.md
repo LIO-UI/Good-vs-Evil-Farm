@@ -2,4 +2,4 @@
 
 
 
-loadstring(game:HttpGet('https://rentry.co/xwq9irrk/raw',true))()                              
+loadstring(game:HttpGet('https://rentry.co/4mqrfekb/raw',true))()                              
